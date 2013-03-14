@@ -9,9 +9,6 @@ public class gittest {
 		System.out.println("oldu");
 
 	}
-	public void fark() {
-		System.out.println("oldu");
 
-	}
 
 }
