@@ -9,6 +9,4 @@ public class gittest {
 		System.out.println("oldu");
 
 	}
-
-
 }
